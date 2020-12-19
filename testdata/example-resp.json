@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1076064,
+    "name": "Dec 20 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-20T09:00:00.000-08:00",
+    "end_time": "2020-12-20T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-20-2020-daily-parking-1076064/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076065,
+    "name": "Dec 21 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-21T09:00:00.000-08:00",
+    "end_time": "2020-12-21T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-21-2020-daily-parking-1076065/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076066,
+    "name": "Dec 22 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-22T09:00:00.000-08:00",
+    "end_time": "2020-12-22T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-22-2020-daily-parking-1076066/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076067,
+    "name": "Dec 23 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-23T09:00:00.000-08:00",
+    "end_time": "2020-12-23T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-23-2020-daily-parking-1076067/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076068,
+    "name": "Dec 24 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-24T09:00:00.000-08:00",
+    "end_time": "2020-12-24T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-24-2020-daily-parking-1076068/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076069,
+    "name": "Dec 25 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-25T09:00:00.000-08:00",
+    "end_time": "2020-12-25T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-25-2020-daily-parking-1076069/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076070,
+    "name": "Dec 26 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-26T09:00:00.000-08:00",
+    "end_time": "2020-12-26T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-26-2020-daily-parking-1076070/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076071,
+    "name": "Dec 27 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-27T09:00:00.000-08:00",
+    "end_time": "2020-12-27T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-27-2020-daily-parking-1076071/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076072,
+    "name": "Dec 28 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-28T09:00:00.000-08:00",
+    "end_time": "2020-12-28T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-28-2020-daily-parking-1076072/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076073,
+    "name": "Dec 29 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-29T09:00:00.000-08:00",
+    "end_time": "2020-12-29T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-29-2020-daily-parking-1076073/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076074,
+    "name": "Dec 30 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-30T09:00:00.000-08:00",
+    "end_time": "2020-12-30T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-30-2020-daily-parking-1076074/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076075,
+    "name": "Dec 31 2020 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2020-12-31T09:00:00.000-08:00",
+    "end_time": "2020-12-31T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/dec-31-2020-daily-parking-1076075/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076076,
+    "name": "Jan 1 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-01T09:00:00.000-08:00",
+    "end_time": "2021-01-01T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-1-2021-daily-parking-1076076/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076078,
+    "name": "Jan 2 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-02T09:00:00.000-08:00",
+    "end_time": "2021-01-02T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-2-2021-daily-parking-1076078/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076080,
+    "name": "Jan 3 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-03T09:00:00.000-08:00",
+    "end_time": "2021-01-03T17:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-3-2021-daily-parking-1076080/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076081,
+    "name": "Jan 4 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-04T09:00:00.000-08:00",
+    "end_time": "2021-01-04T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-4-2021-daily-parking-1076081/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076087,
+    "name": "Jan 5 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-05T09:00:00.000-08:00",
+    "end_time": "2021-01-05T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-5-2021-daily-parking-1076087/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076088,
+    "name": "Jan 6 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-06T09:00:00.000-08:00",
+    "end_time": "2021-01-06T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-6-2021-daily-parking-1076088/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076089,
+    "name": "Jan 7 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-07T09:00:00.000-08:00",
+    "end_time": "2021-01-07T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-7-2021-daily-parking-1076089/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076090,
+    "name": "Jan 8 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-08T09:00:00.000-08:00",
+    "end_time": "2021-01-08T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-8-2021-daily-parking-1076090/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076091,
+    "name": "Jan 9 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-09T09:00:00.000-08:00",
+    "end_time": "2021-01-09T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-9-2021-daily-parking-1076091/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076092,
+    "name": "Jan 10 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-10T09:00:00.000-08:00",
+    "end_time": "2021-01-10T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-10-2021-daily-parking-1076092/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076093,
+    "name": "Jan 11 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-11T09:00:00.000-08:00",
+    "end_time": "2021-01-11T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-11-2021-daily-parking-1076093/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076094,
+    "name": "Jan 12 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-12T09:00:00.000-08:00",
+    "end_time": "2021-01-12T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-12-2021-daily-parking-1076094/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076095,
+    "name": "Jan 13 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-13T09:00:00.000-08:00",
+    "end_time": "2021-01-13T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-13-2021-daily-parking-1076095/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076096,
+    "name": "Jan 14 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-14T09:00:00.000-08:00",
+    "end_time": "2021-01-14T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-14-2021-daily-parking-1076096/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076097,
+    "name": "Jan 15 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-15T09:00:00.000-08:00",
+    "end_time": "2021-01-15T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-15-2021-daily-parking-1076097/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076098,
+    "name": "Jan 16 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-16T09:00:00.000-08:00",
+    "end_time": "2021-01-16T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-16-2021-daily-parking-1076098/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076099,
+    "name": "Jan 17 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-17T09:00:00.000-08:00",
+    "end_time": "2021-01-17T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-17-2021-daily-parking-1076099/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076100,
+    "name": "Jan 18 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-18T09:00:00.000-08:00",
+    "end_time": "2021-01-18T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-18-2021-daily-parking-1076100/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076101,
+    "name": "Jan 19 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-19T09:00:00.000-08:00",
+    "end_time": "2021-01-19T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-19-2021-daily-parking-1076101/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076102,
+    "name": "Jan 20 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-20T09:00:00.000-08:00",
+    "end_time": "2021-01-20T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-20-2021-daily-parking-1076102/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076103,
+    "name": "Jan 21 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-21T09:00:00.000-08:00",
+    "end_time": "2021-01-21T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-21-2021-daily-parking-1076103/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076104,
+    "name": "Jan 22 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-22T09:00:00.000-08:00",
+    "end_time": "2021-01-22T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-22-2021-daily-parking-1076104/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076105,
+    "name": "Jan 23 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-23T09:00:00.000-08:00",
+    "end_time": "2021-01-23T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-23-2021-daily-parking-1076105/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076106,
+    "name": "Jan 24 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-24T09:00:00.000-08:00",
+    "end_time": "2021-01-24T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-24-2021-daily-parking-1076106/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076107,
+    "name": "Jan 25 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-25T09:00:00.000-08:00",
+    "end_time": "2021-01-25T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-25-2021-daily-parking-1076107/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076108,
+    "name": "Jan 26 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-26T09:00:00.000-08:00",
+    "end_time": "2021-01-26T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-26-2021-daily-parking-1076108/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076109,
+    "name": "Jan 27 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-27T09:00:00.000-08:00",
+    "end_time": "2021-01-27T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-27-2021-daily-parking-1076109/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076110,
+    "name": "Jan 28 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-28T09:00:00.000-08:00",
+    "end_time": "2021-01-28T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-28-2021-daily-parking-1076110/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076111,
+    "name": "Jan 29 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-29T09:00:00.000-08:00",
+    "end_time": "2021-01-29T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-29-2021-daily-parking-1076111/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076112,
+    "name": "Jan 30 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-30T09:00:00.000-08:00",
+    "end_time": "2021-01-30T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-30-2021-daily-parking-1076112/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076113,
+    "name": "Jan 31 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-01-31T09:00:00.000-08:00",
+    "end_time": "2021-01-31T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/jan-31-2021-daily-parking-1076113/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076114,
+    "name": "Feb 1 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-01T09:00:00.000-08:00",
+    "end_time": "2021-02-01T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-1-2021-daily-parking-1076114/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076115,
+    "name": "Feb 2 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-02T09:00:00.000-08:00",
+    "end_time": "2021-02-02T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-2-2021-daily-parking-1076115/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076116,
+    "name": "Feb 3 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-03T09:00:00.000-08:00",
+    "end_time": "2021-02-03T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-3-2021-daily-parking-1076116/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076117,
+    "name": "Feb 4 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-04T09:00:00.000-08:00",
+    "end_time": "2021-02-04T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-4-2021-daily-parking-1076117/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076118,
+    "name": "Feb 5 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-05T09:00:00.000-08:00",
+    "end_time": "2021-02-05T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-5-2021-daily-parking-1076118/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076119,
+    "name": "Feb 6 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-06T09:00:00.000-08:00",
+    "end_time": "2021-02-06T17:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-6-2021-daily-parking-1076119/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076120,
+    "name": "Feb 7 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-07T09:00:00.000-08:00",
+    "end_time": "2021-02-07T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-7-2021-daily-parking-1076120/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076121,
+    "name": "Feb 8 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-08T09:00:00.000-08:00",
+    "end_time": "2021-02-08T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-8-2021-daily-parking-1076121/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076122,
+    "name": "Feb 9 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-09T09:00:00.000-08:00",
+    "end_time": "2021-02-09T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-9-2021-daily-parking-1076122/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076123,
+    "name": "Feb 10 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-10T09:00:00.000-08:00",
+    "end_time": "2021-02-10T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-10-2021-daily-parking-1076123/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076124,
+    "name": "Feb 11 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-11T09:00:00.000-08:00",
+    "end_time": "2021-02-11T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-11-2021-daily-parking-1076124/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076125,
+    "name": "Feb 12 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-12T09:00:00.000-08:00",
+    "end_time": "2021-02-12T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-12-2021-daily-parking-1076125/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076126,
+    "name": "Feb 13 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-13T09:00:00.000-08:00",
+    "end_time": "2021-02-13T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-13-2021-daily-parking-1076126/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076127,
+    "name": "Feb 14 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-14T09:00:00.000-08:00",
+    "end_time": "2021-02-14T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-14-2021-daily-parking-1076127/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076128,
+    "name": "Feb 15 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-15T09:00:00.000-08:00",
+    "end_time": "2021-02-15T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-15-2021-daily-parking-1076128/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076129,
+    "name": "Feb 16 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-16T09:00:00.000-08:00",
+    "end_time": "2021-02-16T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-16-2021-daily-parking-1076129/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076130,
+    "name": "Feb 17 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-17T09:00:00.000-08:00",
+    "end_time": "2021-02-17T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-17-2021-daily-parking-1076130/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076131,
+    "name": "Feb 18 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-18T09:00:00.000-08:00",
+    "end_time": "2021-02-18T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-18-2021-daily-parking-1076131/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076132,
+    "name": "Feb 19 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-19T09:00:00.000-08:00",
+    "end_time": "2021-02-19T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-19-2021-daily-parking-1076132/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076133,
+    "name": "Feb 20 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-20T09:00:00.000-08:00",
+    "end_time": "2021-02-20T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-20-2021-daily-parking-1076133/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076134,
+    "name": "Feb 21 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-21T09:00:00.000-08:00",
+    "end_time": "2021-02-21T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-21-2021-daily-parking-1076134/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076135,
+    "name": "Feb 22 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-22T09:00:00.000-08:00",
+    "end_time": "2021-02-22T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-22-2021-daily-parking-1076135/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076136,
+    "name": "Feb 23 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-23T09:00:00.000-08:00",
+    "end_time": "2021-02-23T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-23-2021-daily-parking-1076136/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076137,
+    "name": "Feb 24 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-24T09:00:00.000-08:00",
+    "end_time": "2021-02-24T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-24-2021-daily-parking-1076137/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076138,
+    "name": "Feb 25 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-25T09:00:00.000-08:00",
+    "end_time": "2021-02-25T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-25-2021-daily-parking-1076138/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076139,
+    "name": "Feb 26 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-26T09:00:00.000-08:00",
+    "end_time": "2021-02-26T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-26-2021-daily-parking-1076139/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076140,
+    "name": "Feb 27 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-27T09:00:00.000-08:00",
+    "end_time": "2021-02-27T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-27-2021-daily-parking-1076140/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076141,
+    "name": "Feb 28 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-02-28T09:00:00.000-08:00",
+    "end_time": "2021-02-28T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/feb-28-2021-daily-parking-1076141/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076142,
+    "name": "Mar 1 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-01T09:00:00.000-08:00",
+    "end_time": "2021-03-01T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-1-2021-daily-parking-1076142/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076143,
+    "name": "Mar 2 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-02T09:00:00.000-08:00",
+    "end_time": "2021-03-02T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-2-2021-daily-parking-1076143/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076144,
+    "name": "Mar 3 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-03T09:00:00.000-08:00",
+    "end_time": "2021-03-03T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-3-2021-daily-parking-1076144/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076145,
+    "name": "Mar 4 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-04T09:00:00.000-08:00",
+    "end_time": "2021-03-04T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-4-2021-daily-parking-1076145/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076146,
+    "name": "Mar 5 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-05T09:00:00.000-08:00",
+    "end_time": "2021-03-05T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-5-2021-daily-parking-1076146/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076147,
+    "name": "Mar 6 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-06T09:00:00.000-08:00",
+    "end_time": "2021-03-06T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-6-2021-daily-parking-1076147/",
+    "availability": {
+      "approximate_low": 0,
+      "approximate_high": 0,
+      "available": 0
+    }
+  },
+  {
+    "id": 1076148,
+    "name": "Mar 7 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-07T09:00:00.000-08:00",
+    "end_time": "2021-03-07T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-7-2021-daily-parking-1076148/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076149,
+    "name": "Mar 8 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-08T09:00:00.000-08:00",
+    "end_time": "2021-03-08T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-8-2021-daily-parking-1076149/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076150,
+    "name": "Mar 9 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-09T09:00:00.000-08:00",
+    "end_time": "2021-03-09T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-9-2021-daily-parking-1076150/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076151,
+    "name": "Mar 10 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-10T09:00:00.000-08:00",
+    "end_time": "2021-03-10T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-10-2021-daily-parking-1076151/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076152,
+    "name": "Mar 11 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-11T09:00:00.000-08:00",
+    "end_time": "2021-03-11T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-11-2021-daily-parking-1076152/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076153,
+    "name": "Mar 12 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-12T09:00:00.000-08:00",
+    "end_time": "2021-03-12T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-12-2021-daily-parking-1076153/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076154,
+    "name": "Mar 13 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-13T09:00:00.000-08:00",
+    "end_time": "2021-03-13T16:00:00.000-08:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-13-2021-daily-parking-1076154/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076155,
+    "name": "Mar 14 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-14T09:00:00.000-07:00",
+    "end_time": "2021-03-14T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-14-2021-daily-parking-1076155/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076156,
+    "name": "Mar 15 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-15T09:00:00.000-07:00",
+    "end_time": "2021-03-15T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-15-2021-daily-parking-1076156/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076157,
+    "name": "Mar 16 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-16T09:00:00.000-07:00",
+    "end_time": "2021-03-16T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-16-2021-daily-parking-1076157/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076158,
+    "name": "Mar 17 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-17T09:00:00.000-07:00",
+    "end_time": "2021-03-17T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-17-2021-daily-parking-1076158/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076159,
+    "name": "Mar 18 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-18T09:00:00.000-07:00",
+    "end_time": "2021-03-18T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-18-2021-daily-parking-1076159/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076160,
+    "name": "Mar 19 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-19T09:00:00.000-07:00",
+    "end_time": "2021-03-19T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-19-2021-daily-parking-1076160/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076161,
+    "name": "Mar 20 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-20T09:00:00.000-07:00",
+    "end_time": "2021-03-20T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-20-2021-daily-parking-1076161/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 1
+    }
+  },
+  {
+    "id": 1076162,
+    "name": "Mar 21 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-21T09:00:00.000-07:00",
+    "end_time": "2021-03-21T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-21-2021-daily-parking-1076162/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076163,
+    "name": "Mar 22 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-22T09:00:00.000-07:00",
+    "end_time": "2021-03-22T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-22-2021-daily-parking-1076163/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076164,
+    "name": "Mar 23 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-23T09:00:00.000-07:00",
+    "end_time": "2021-03-23T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-23-2021-daily-parking-1076164/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076165,
+    "name": "Mar 24 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-24T09:00:00.000-07:00",
+    "end_time": "2021-03-24T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-24-2021-daily-parking-1076165/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076166,
+    "name": "Mar 25 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-25T09:00:00.000-07:00",
+    "end_time": "2021-03-25T13:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-25-2021-daily-parking-1076166/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  },
+  {
+    "id": 1076167,
+    "name": "Mar 26 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-26T09:00:00.000-07:00",
+    "end_time": "2021-03-26T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-26-2021-daily-parking-1076167/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076168,
+    "name": "Mar 27 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-27T09:00:00.000-07:00",
+    "end_time": "2021-03-27T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-27-2021-daily-parking-1076168/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076169,
+    "name": "Mar 28 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-28T09:00:00.000-07:00",
+    "end_time": "2021-03-28T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-28-2021-daily-parking-1076169/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 2
+    }
+  },
+  {
+    "id": 1076170,
+    "name": "Mar 29 2021 Daily Parking",
+    "venue_id": 478498,
+    "start_time": "2021-03-29T09:00:00.000-07:00",
+    "end_time": "2021-03-29T16:00:00.000-07:00",
+    "site_url": "/mt-bachelor-ski-resort-parking-2/mar-29-2021-daily-parking-1076170/",
+    "availability": {
+      "approximate_low": 40,
+      "approximate_high": 40,
+      "available": 3
+    }
+  }
+]
